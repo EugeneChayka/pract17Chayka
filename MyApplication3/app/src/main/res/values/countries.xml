@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>argentina</item>
+        <item>brazilia</item>
+        <item>columbia</item>
+        <item>chile</item>
+        <item>uruguay</item>
+    </string-array>
+</resources>
